@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+}
+h1 {
+    color: crimson;
+    text-align: center;
+    font-size: 45px;
+}
+
+p {
+    color:blue;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color:blueviolet;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
